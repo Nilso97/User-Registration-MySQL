@@ -1,5 +1,5 @@
-# Aplicação Backend com Node.js + MySQL
-Aplicação Backend para Cadastro de Usuários desenvolvida em Node.js conectada ao Banco de dados MySQL
+# Aplicação Backend com Node.js + MySQL ![database (1)](https://user-images.githubusercontent.com/96146165/167915387-a1832398-48a4-4261-8ca9-febea674d17c.png)
+Aplicação Backend para Cadastro de Usuários desenvolvida em Node.js conectada ao Banco de dados MySQL.
 
 ## Comandos SQL utilizados na aplicação:
 
