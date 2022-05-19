@@ -1,6 +1,15 @@
 # Aplicação Backend com Node.js + MySQL ![database (1)](https://user-images.githubusercontent.com/96146165/167915387-a1832398-48a4-4261-8ca9-febea674d17c.png)
 Aplicação Backend para Cadastro de Usuários desenvolvida em Node.js conectada ao Banco de dados MySQL 👥 🖥 💾 
 
+- Gera uma ID automática;
+- Cadastra os seguintes dados: 
+Nome;
+Sobrenome;
+E-mail;
+Senha;
+
+Após isso, todos esses dados são armazenados na base de dados do MySQL
+
 ## Instalação das depêndencias:
 - npm init -y
 - npm install mysql2
