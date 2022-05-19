@@ -10,6 +10,9 @@ ou
 
 ### user: root / password: 1234
 
+#### Servidor em execução 👏
+![Sem título](https://user-images.githubusercontent.com/96146165/169265521-a5f92a5e-1176-4b49-8b3f-02bcff31f72b.png)
+
 ## Comandos SQL utilizados na aplicação:
 
 - <strong>CREATE DATABASE</strong> DB_userRegistration;
@@ -28,5 +31,6 @@ ou
 
 ## Resultado:
 
-![TABLE](https://user-images.githubusercontent.com/96146165/169185035-488d680b-1701-47d0-82fe-4f33afef7fda.png)
+![TABLE](https://user-images.githubusercontent.com/96146165/169265378-c82e4dc1-598c-4a37-a119-d6a317fa9ada.png)
+
 
